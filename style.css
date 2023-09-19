@@ -566,7 +566,31 @@
       grid-gap: 1rem;
     }
   }
-  
+
+  @media (max-width: 440px){
+    /* showcase */
+    .showcase-img > img {
+      width: 100%;
+    }
+
+    .case1 .showcase-animation {
+      width: 350px;
+      left: 45px;
+      top: 55px;
+    }
+    
+    .case3 .showcase-animation {          
+      width: 250px;
+      left: 65px;
+      top: -14px;
+    }
+    
+    .downloading {
+      top: 210px;
+      left: 80px;
+    }
+  }
+
   @media (max-width: 375px) {
     .inner-title {
       font-size: 1rem;
@@ -593,7 +617,7 @@
     .case3 .showcase-animation {
       width: 210px;
       left: 60px;
-      top: -25px;
+      top: -35px;
     }
     .downloading {
       top: 180px;
