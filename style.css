@@ -593,7 +593,7 @@
     }
   }
 
-  @media (max-width: 375px) {
+  @media (max-width: 380px) {
     .inner-title {
       font-size: 1rem;
     }
