@@ -567,27 +567,27 @@
     }
   }
 
-  @media (max-width: 435px){
+  @media (max-width: 420px){
     /* showcase */
     .showcase-img > img {
       width: 100%;
     }
 
     .case1 .showcase-animation {
-      width: 340px;
+      width: 330px;
       left: 45px;
       top: 55px;
     }
     
     .case3 .showcase-animation {          
       width: 250px;
-      left: 65px;
+      left: 62px;
       top: -16px;
     }
     
     .downloading {
-      top: 210px;
-      left: 80px;
+      top: 200px;
+      left: 70px;
     }
   }
 
