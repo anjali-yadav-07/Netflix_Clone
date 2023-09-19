@@ -567,14 +567,14 @@
     }
   }
 
-  @media (max-width: 440px){
+  @media (max-width: 435px){
     /* showcase */
     .showcase-img > img {
       width: 100%;
     }
 
     .case1 .showcase-animation {
-      width: 350px;
+      width: 340px;
       left: 45px;
       top: 55px;
     }
@@ -582,7 +582,7 @@
     .case3 .showcase-animation {          
       width: 250px;
       left: 65px;
-      top: -14px;
+      top: -16px;
     }
     
     .downloading {
